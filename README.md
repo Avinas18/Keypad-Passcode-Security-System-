@@ -21,6 +21,7 @@ This project implements a passcode-based security system using an embedded syste
   - 🔴 **Red LED**: Shows access denied.
 
 ## 🖼️ Circuit Diagram
+![Circuit Diagram](CircuitDiagram.png)
 The circuit consists of the following components connected to the 8051 microcontroller:
 - 🔢 **Keypad** connected to specific pins of the microcontroller.
 - 💡 **LEDs** (green and red) connected to output pins for feedback.
