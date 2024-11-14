@@ -29,6 +29,7 @@ The circuit consists of the following components connected to the 8051 microcont
 - 🔩 **DC Motor** controlled by the microcontroller to simulate the unlocking mechanism.
 
 ## 🔄 System Flow
+![System Flow](SystemFlow.png)
 1. **Enter Passcode**: The user enters a passcode using the keypad.
 2. **Check Passcode**:
    - ✅ If the passcode is correct, the system turns on the motor and the green LED, and displays "Access Granted" on the LCD.
